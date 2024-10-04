@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Behdad Nemati
 
-I am a back-end developer with a strong focus on **ASP.NET**, a **network engineer**, and an **IT technician**. Currently, I'm pursuing a Master's degree in **Computer Science** at Politecnico di Milano. My passion lies in building scalable web applications, optimizing network infrastructures, and exploring the latest tech trends, with a special interest in **Cisco networking**.
+I am a Back-End developer with a strong focus on **ASP.NET**, a **Network Engineer**, and an **IT Technician**. Currently, I'm pursuing a Master's degree in **Computer Science** at Politecnico di Milano. My passion lies in building scalable web applications, optimizing network infrastructures, and exploring the latest tech trends, with a special interest in **Cisco Networking**.
 
 ---
 
