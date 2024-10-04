@@ -31,7 +31,7 @@ Feel free to explore my repositories and check out the projects I am currently w
 
 ### 📫 How to Reach Me
 - Email: behdad.nemati@hotmail.com
-- LinkedIn: [Your LinkedIn Profile](#) _(add your LinkedIn URL here)_
+- LinkedIn: ([Behdad Nemati](https://www.linkedin.com/in/behdad-nemati-424698119/))
 
 ---
 
