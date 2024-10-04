@@ -1,16 +1,51 @@
-## Hi there 👋
+# 👋 Hi, I'm Behdad Nemati
 
-<!--
-**behdadn77/behdadn77** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I am a back-end developer with a strong focus on **ASP.NET**, a **network engineer**, and an **IT technician**. Currently, I'm pursuing a Master's degree in **Computer Science** at Politecnico di Milano. My passion lies in building scalable web applications, optimizing network infrastructures, and exploring the latest tech trends, with a special interest in **Cisco networking**.
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🛠️ Skills & Technologies
+
+#### Back-End Development
+- **ASP.NET Core**
+- **C#**
+- **Entity Framework**
+- **RESTful APIs**
+- **Microservices Architecture**
+
+  
+#### Networking & IT
+- **Cisco Networking**
+- **Firewalls & Security**
+- **Routing & Switching**
+- **Network Troubleshooting**
+
+---
+
+### 📊 Progress
+
+#### ASP.NET
+![ASP.NET](https://progress-bar.dev/80/)
+
+#### Networking
+![Networking](https://progress-bar.dev/70/)
+
+
+---
+
+### 🔭 Current Projects
+- **ShopEngine**: An open-source online shopping platform built with ASP.NET, microservices, Angular, and Docker.
+  
+Feel free to explore my repositories and check out the projects I am currently working on!
+
+---
+
+### 📫 How to Reach Me
+- Email: behdad.nemati@hotmail.com
+- LinkedIn: [Your LinkedIn Profile](#) _(add your LinkedIn URL here)_
+
+---
+
+### 🎓 Education
+- Pursuing Master's in Computer Science at **Politecnico di Milano**
+- Bachelor's in Computer Software Engineering
