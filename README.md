@@ -22,17 +22,6 @@ I am a back-end developer with a strong focus on **ASP.NET**, a **network engine
 
 ---
 
-### 📊 Progress
-
-#### ASP.NET
-![ASP.NET](https://progress-bar.dev/80/)
-
-#### Networking
-![Networking](https://progress-bar.dev/70/)
-
-
----
-
 ### 🔭 Current Projects
 - **ShopEngine**: An open-source online shopping platform built with ASP.NET, microservices, Angular, and Docker.
   
